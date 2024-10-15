@@ -36,6 +36,7 @@
 <br />
 <img align="right"  alt="Coding" width="150" src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif">
 <h3 align="left">Connect with me:</h3>
+<hr style="border: 0; border-top: 1px solid #ccc; margin-top: -10px;" />
 <p align="left">
 <a href="https://linkedin.com/in/leila-skouri-0673b3274/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leila skouri" height="30" width="40" /></a>
 <a href="https://medium.com/@leila.skouri.LS" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@leila skouri" height="30" width="40" /></a>
