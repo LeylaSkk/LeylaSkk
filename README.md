@@ -1,9 +1,9 @@
 <div align="center">
-  <img width="1834" alt="Make your README" src="https://github.com/user-attachments/assets/e5114fdd-5e3d-4d84-9825-bead8ddc9bce">
+  <img width="1834" alt="Make your README" src="https://github.com/user-attachments/assets/493f0d8d-e5ae-4b4e-94bc-34aa4a83e9cc">
 </div>
 
 
-<img align="right"  alt="Coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leylaskk&label=Profile%20views&color=0e75b6&style=flat" alt="leylaskk" /> </p>
 
 
@@ -12,6 +12,7 @@
 - 💬 Check me out **https://leylaskportfolio.netlify.app/**
 - 📫 How to reach me **Leila.skouri.ls@gmail.com**
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Z0H0BiWcNwCoExEVzGe6SN8RS3BLAo8w/view?usp=sharing](https://drive.google.com/file/d/1Z0H0BiWcNwCoExEVzGe6SN8RS3BLAo8w/view?usp=sharing)
+ 
  
 
 <br />
@@ -33,6 +34,7 @@
   </p>
 </div>
 <br />
+<img align="right"  alt="Coding" width="200" src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/leila-skouri-0673b3274/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leila skouri" height="30" width="40" /></a>
